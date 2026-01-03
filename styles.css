@@ -1,15 +1,19 @@
 *{
-    padding: 10px;
+    padding: 0px 10px;
 }
 body{
     background-color: #f5f5f5;
 }
-div{
+.same{
     border: 1px solid white;
     background-color: #fff; 
     padding: 5px;
 }
-
+#diff{
+    width: fit-content;
+    margin: 0px;
+    padding: 0px;
+}
 .author{
     text-align: right;
     font-style: italic;
